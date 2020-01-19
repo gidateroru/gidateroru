@@ -1,14 +1,14 @@
 name: "Gıda Terörü"
 description: "Lightweight theme"
 
-permalink: /:categories/:year/:month/:day/:title:output_ext
+permalink: /gidateroru/:categories/:year/:month/:day/:title:output_ext
 
 title: "Gıda Terörü"
 email: "gidadateror@gmail.com"
 description: "Test"
 
 url: '' 
-baseurl: ''
+baseurl: '/gidateroru'
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
