@@ -34,5 +34,19 @@ Kamuoyunun bilgisine sunulur.
         <div class="col-3">İlaç etken maddesi (Sildenafil)</div>
         <div class="col-1">26022018</div>
     </div>
+    <div class="row body">
+        <div class="col-3">Doruk Gıda İmalat ve paketleme- Celal BİLECEN Avcılar/İSTANBUL</div>
+        <div class="col-2">Drill Plus Ginseng Drink 4 in 1</div>
+        <div class="col-2">Ginsengli Tutti Frutti Aromalı Gazlı İçecek 150 ml</div>
+        <div class="col-3">İlaç etken maddesi (Sildenafil)</div>
+        <div class="col-1">02012019</div>
+    </div>
+    <div class="row body">
+        <div class="col-3">Global Enerji İçecekleri -Ali YELYETMEZ Beylikdüzü/İSTANBUL</div>
+        <div class="col-2">Nitro Max Gold</div>
+        <div class="col-2">Tutti Frutti Aromalı Ginsengli Gazlı İçecek 150 ml</div>
+        <div class="col-3">İlaç etken maddesi (Sildenafil)</div>
+        <div class="col-1">15072020</div>
+    </div>
 </div>
  
