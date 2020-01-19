@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "My personal blog",
+  "main": "index.js",
+  "repository": "https://github.com/artemsheludko/Jekyll-Gulp-Sass-Autoprefixer-Imagemin-BrowserSync",
+  "author": "Ahmet ATAY",
+  "license": "MIT",
+  "scripts": {
+    "start": "docker run --rm --name gt_web_container --volume=\"$PWD:/my_app\" -p 8000:4000 -it gt_web jekyll serve --host=0.0.0.0",
+    "build": "docker run --rm --name gt_web_container --volume=\"$PWD:/my_app\" -it gt_web jekyll build",
+    "build:docker": "docker build . -t gt_web",
+    "docker:inside": "docker run --rm -it gt_web bash",
+    "git:push": "docker exec -i gt_web_container bash < gitp.sh"
+  },
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "child_process": "^1.0.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cache": "^0.4.6",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-sass": "^3.1.0",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}
