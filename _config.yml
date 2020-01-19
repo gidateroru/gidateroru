@@ -28,12 +28,9 @@ paginate_path: /page-:num
 
 #disqus-id: your-disqus-id
 
-<<<<<<< HEAD
-=======
 # Disqus
 discus-identifier: atayahmet # add your discus identifier
 
->>>>>>> ...
 source: .
 destination: ./_site
 
