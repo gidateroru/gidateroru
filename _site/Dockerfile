@@ -17,11 +17,7 @@ COPY . .
 CMD ["chmod", "+x", "gitp.sh"]
 
 RUN gem install bundler
-<<<<<<< HEAD
-RUN gem install minima
-=======
 RUN bundle install
->>>>>>> ...
 
 EXPOSE 4000
 
