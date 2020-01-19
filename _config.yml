@@ -1,5 +1,14 @@
-name: "Jekyll true minimal theme"
+name: "Gıda Terörü"
 description: "Lightweight theme"
+
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
+title: "Gıda Terörü"
+email: gidadateror@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
 url: '' 
 baseurl: ''
@@ -19,6 +28,12 @@ paginate_path: /page-:num
 
 #disqus-id: your-disqus-id
 
+<<<<<<< HEAD
+=======
+# Disqus
+discus-identifier: atayahmet # add your discus identifier
+
+>>>>>>> ...
 source: .
 destination: ./_site
 

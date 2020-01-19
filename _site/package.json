@@ -7,7 +7,11 @@
   "author": "Ahmet ATAY",
   "license": "MIT",
   "scripts": {
+<<<<<<< HEAD
     "start": "docker run --rm --name gt_web_container --volume=\"$PWD:/my_app\" -p 8000:4000 -it gt_web jekyll serve --host=0.0.0.0",
+=======
+    "start": "docker run --rm --name gt_web_container --volume=\"$PWD:/my_app\" -p 4000:4000 -it gt_web jekyll serve --host=0.0.0.0",
+>>>>>>> ...
     "build": "docker run --rm --name gt_web_container --volume=\"$PWD:/my_app\" -it gt_web jekyll build",
     "build:docker": "docker build . -t gt_web",
     "docker:inside": "docker run --rm -it gt_web bash",
@@ -21,6 +25,11 @@
     "gulp-cache": "^0.4.6",
     "gulp-imagemin": "^3.2.0",
     "gulp-sass": "^3.1.0",
+<<<<<<< HEAD
     "imagemin-pngquant": "^5.0.0"
+=======
+    "imagemin-pngquant": "^5.0.0",
+    "pdf-parse": "^1.1.1"
+>>>>>>> ...
   }
 }

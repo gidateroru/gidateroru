@@ -5,16 +5,29 @@
     <meta charset='utf-8'>
     <title>
         {% if page.title %}
+<<<<<<< HEAD
             {{ page.title }}
         {% else %} 
             {{ site.name }} &mdash; {{ site.description }}
+=======
+        {{ page.title }}
+        {% else %}
+        {{ site.name }} &mdash; {{ site.description }}
+>>>>>>> ...
         {% endif %}
     </title>
 
     {% if site.highlighter %}
+<<<<<<< HEAD
         <link rel='stylesheet' href='{{ site.url }}/assets/css/syntax.css' type='text/css'>
     {% endif %}
     
+=======
+    <link rel='stylesheet' href='{{ site.url }}/assets/css/simple-grid.min.css' type='text/css'>
+    <link rel='stylesheet' href='{{ site.url }}/assets/css/syntax.css' type='text/css'>
+    {% endif %}
+
+>>>>>>> ...
     <meta name='viewport' content='width=device-width, initial-scale=1'>
 
 </head>
@@ -23,7 +36,15 @@
     {% include header.html %}
 
     {{ content }}
+<<<<<<< HEAD
 <hr>
     <p><small> <i>Build with <a href="https://jekyllrb.com/">Jekyll</a> and  <a href="https://github.com/cyevgeniy/jekyll-true-minimal/">true minimal theme</a></i> </small></p>
 </body>
 </html>
+=======
+    <hr>
+    <p><small> <i>Ne yediğine dikkat et...</i> </small></p>
+</body>
+
+</html>
+>>>>>>> ...

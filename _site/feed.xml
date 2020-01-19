@@ -1,1 +1,90 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2020-01-19T13:03:39+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle></feed>
+=======
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-01-19T21:32:00+00:00</updated><id>/feed.xml</id><title type="html">Gıda Terörü</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">ALKOLSÜZ İÇECEKLER</title><link href="/icecekler/2020/01/13/alkolsuz-icecekler.html" rel="alternate" type="text/html" title="ALKOLSÜZ İÇECEKLER" /><published>2020-01-13T00:00:00+00:00</published><updated>2020-01-13T00:00:00+00:00</updated><id>/icecekler/2020/01/13/alkolsuz-icecekler</id><content type="html" xml:base="/icecekler/2020/01/13/alkolsuz-icecekler.html">&lt;p&gt;Tarım ve Orman Bakanlığının yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 Sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanun’unun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.&lt;/p&gt;
+
+&lt;p&gt;Ayrıca, 17 Aralık 2011 tarihli Gıda ve Yemin Resmi Kontrolüne Dair Yönetmeliğin 8 inci maddesi gereğince kişilerin hayatını ve sağlığını tehlikeye düşürecek şekilde bozulmuş, değiştirilmiş gıdaları üreten ve/veya satan firmanın adı, ürün adı, markası, parti ve/veya seri numarasının Bakanlık resmi internet sitesinde Bakanlıkça kamuoyunun bilgisine sunabileceği hükmü yer almaktadır.&lt;/p&gt;
+
+&lt;p&gt;Bu kapsamda, kişilerin hayatını ve sağlığını tehlikeye düşürecek şekilde bozulmuş, değiştirilmiş ürünlere ait bilgiler aşağıda yer almaktadır.&lt;/p&gt;
+
+&lt;p&gt;Kamuoyunun bilgisine sunulur.&lt;/p&gt;
+
+&lt;h2&gt;Kamuoyuna duyuru tarihi: 13.01.2020&lt;/h2&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;row header&quot;&gt;
+        &lt;div class=&quot;col-3 center&quot;&gt;FİRMA ADI&lt;/div&gt;
+        &lt;div class=&quot;col-2 center&quot;&gt;MARKA&lt;/div&gt;
+        &lt;div class=&quot;col-2 center&quot;&gt;ÜRÜN ADI&lt;/div&gt;
+        &lt;div class=&quot;col-3 center&quot;&gt;UYGUNSUZLUK&lt;/div&gt;
+        &lt;div class=&quot;col-1 center&quot;&gt;PARTİ/SERİ NO&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row body&quot;&gt;
+        &lt;div class=&quot;col-3&quot;&gt;Doruk Gıda İmalat ve paketleme- Celal BİLECEN Avcılar/İSTANBUL&lt;/div&gt;
+        &lt;div class=&quot;col-2&quot;&gt;Diblong&lt;/div&gt;
+        &lt;div class=&quot;col-2&quot;&gt;Tutti Frutti Aromalı Ginsengli Gazlı İçecek&lt;/div&gt;
+        &lt;div class=&quot;col-3&quot;&gt;İlaç etken maddesi (Sildenafil)&lt;/div&gt;
+        &lt;div class=&quot;col-1&quot;&gt;26022018&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="İçecekler" /><summary type="html">Tarım ve Orman Bakanlığının yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 Sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanun’unun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.</summary></entry><entry><title type="html">State Management Pattern nedir? Neden Kullanılır?</title><link href="/tr/javascript/2018/02/16/jekyll-true-minimal-theme.html" rel="alternate" type="text/html" title="State Management Pattern nedir? Neden Kullanılır?" /><published>2018-02-16T07:00:00+00:00</published><updated>2018-02-16T07:00:00+00:00</updated><id>/tr/javascript/2018/02/16/jekyll-true-minimal-theme</id><content type="html" xml:base="/tr/javascript/2018/02/16/jekyll-true-minimal-theme.html">&lt;p&gt;Geniş çaplı uygulamaların karmaşıklık seviyesi, projenin büyüme hızıyla doğru orantılıdır. Özellikle proje javascript gibi bir dil ile geliştiriliyorsa &lt;code class=&quot;highlighter-rouge&quot;&gt;state management&lt;/code&gt; gibi design pattern‘ların kullanımı zorunluluk hale geliyor.&lt;/p&gt;
+
+&lt;p&gt;UI &lt;code class=&quot;highlighter-rouge&quot;&gt;(user interface)&lt;/code&gt; için kullanabileceğimiz bir çok framework’ün (&lt;code class=&quot;highlighter-rouge&quot;&gt;Angular&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;VueJS&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;React&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;React Native&lt;/code&gt;) piyasaya çıkmasıyla yeni yöntemlerin uygulanmasına bağlı olarak bir takım sorunlar da beraberinde geldi. Bunlardan en önemlisi nesneler (objects), diziler (arrays) ve ilkel (primitive) türler dediğimiz &lt;code class=&quot;highlighter-rouge&quot;&gt;string&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;boolean&lt;/code&gt; ve &lt;code class=&quot;highlighter-rouge&quot;&gt;number&lt;/code&gt; türlerinin değişmezlik &lt;code class=&quot;highlighter-rouge&quot;&gt;(immutable)&lt;/code&gt; yönetimleridir.&lt;/p&gt;
+
+&lt;p&gt;Kod performansını yüksek tutmak için mutable/immutable konusu önemli bir konudur. Bir &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;x-component&amp;gt;&lt;/code&gt;‘i içinde kullandığınız değişken &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;y-component&amp;gt;&lt;/code&gt;‘i için de değişme (mutate) riski taşıyacağından bu da beraberinde bir takım bug’ları getiriyor olacaktır. Bu tür sorunların debugging işlemi bir hayli sancılı olmaktadır.&lt;/p&gt;
+
+&lt;p&gt;Bir değişkeni reference olarak değil yeni bir kopyasını (clone) oluşturarak farklı yerlerde kullanılması çok daha doğru bir adım olacaktır. Immutable kavramının tam olarak tanımı için; “Herhangi bir türe sahip değişkenin değerini asla değiştirme. Yeni bir kopyasını oluştur ve kullan.” şeklinde açıklayabiliriz.&lt;/p&gt;
+
+&lt;p&gt;Neden peki değişkenleri istediğimiz yerde istediğimiz şekilde kullanamıyoruz yada değiştiremiyoruz? Aslında bu sorunun cevabı kullandığımız UI framework’lerin &lt;code class=&quot;highlighter-rouge&quot;&gt;data-bind&lt;/code&gt; mimarisi üzerine kurulu olmasıyla ilgili bir durum. Özetle component içinde bir değişken ile html elementini birbirine bağlayarak (binding) arada bir ilişki kuruluyor. Bu iki uç nokta sürekli olarak birbirleriyle etkileşim içinde oluyorlar.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Not: Data-Binding iki yönlü (two-way) ya da tek yönlü (one-way) olabilir. Kullanılan teknolojiye göre farklılık gösterebilir. İki yönlü binding mimarisi, bind edilen değişken mevcut değerinden farklı bir değer ile değiştirilirse bu değişim direkt olarak UI’a yansıyacaktır. Aynı şekilde UI tarafında bir input yada vb. form element ile bind edilmiş ise bu elemente girilecek olan her değer direkt olarak değişkeni etkileyecektir.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bind edilmiş bir değişken ile element her hangi bir değişime karşı birbirlerini sürekli dinliyor olacaklardır. Bir değişkenin değeri her değiştiğinde direkt olarak componentin kendini tekrar render etmesini sağlayacaktır. Peki ama aynı değişken bir den fazla component için de aynı referans ile kullanıldığında olacakları bir düşünün? Tek bir değişkenin mutate olması bir çok componenti tekrar tekrar render olmaya zorlayacaktır. Bu durum performans sorunlarını beraberinde getirecektir.&lt;/p&gt;
+
+&lt;p&gt;Yukarıdaki hata senaryolarının çözümü state management kullanımında yatmaktadır. Neyseki bir çok framework bu pattern’ı kendi bünyelerine entegre ederek kullanımını teşvik etmektedir. Aksi halde frensiz bir arabayla yolculuk yapmak gibi riskli bir geliştirme süreci kaçınılmaz olacaktır.&lt;/p&gt;
+
+&lt;h2 id=&quot;temel-özellikleri&quot;&gt;Temel özellikleri&lt;/h2&gt;
+
+&lt;p&gt;State management temel de 3 farklı bileşini vardır. Bunlar;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Store&lt;/li&gt;
+  &lt;li&gt;Actions&lt;/li&gt;
+  &lt;li&gt;Reducers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;store&quot;&gt;Store&lt;/h2&gt;
+&lt;p&gt;Store tüm değişkenlerin muhafaza edileceği (in-memory) kısım. Veriler buraya kaydedilip kullanılmak istenildiğin de tekrar buradan elde edilecektir.&lt;/p&gt;
+
+&lt;h2 id=&quot;actions&quot;&gt;Actions&lt;/h2&gt;
+&lt;p&gt;Bir değişken/sabit yada class olarak kullanılabilmektedir. Store ile veri alışverişi yapılırken her işlemi temsil edecek olan bir kimlik olarak düşünebiliriz. Genel de açıklayıcı niteliği taşıyan değerler atanır.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Örnek:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;REMOVE_ITEM_ACTION&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;[Todo] Remove item&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;reducers&quot;&gt;Reducers&lt;/h2&gt;
+&lt;p&gt;Reducer aşaması store’daki veriyi işleme görevini yapacak olan kısımdır. Action’lar ile iletişim kurar ve mutate işlemlerini gerçekleştirir. Daha sonra veriyi tekrar store’a yazar ve yeni bir kopyasını kullanılmak üzere geri döndürür.&lt;/p&gt;
+
+&lt;h2 id=&quot;avantajları&quot;&gt;Avantajları&lt;/h2&gt;
+&lt;p&gt;En büyük avantajı hiç şüphesiz in-memory veri yığınının daha tutarlı kullanımına imkan sağlaması. Yazının girişin de bahsettiğimiz gibi büyük ölçekli projeler de en büyük risk immutable yönetemidir.&lt;/p&gt;
+
+&lt;p&gt;Bir diğer avantaj cache imkanı sunuyor olması. Browser ortamın da çalışan sistemler de store’a eklenen verilerin tekrar API sorgusuna gerek kalmadan kullanılabilir olmasıdır.&lt;/p&gt;
+
+&lt;h2 id=&quot;dezavantajları&quot;&gt;Dezavantajları&lt;/h2&gt;
+&lt;p&gt;Avantaj olarak gördüğümüz cache’leme kolaylığı iyi yönetilemezse dezavantaj olarak önümüze geri gelecektir. Çok fazla kaynak tüketimi (memory leak) olacağından tarayıcı ortamında (özellikle mobil tarayıcılar da) ciddi performans sorunlarına yol açabilir.&lt;/p&gt;
+
+&lt;h2 id=&quot;sonuç&quot;&gt;Sonuç&lt;/h2&gt;
+&lt;p&gt;Sonuç olarak client (özellikle SPA) projeler de kullanmamız faydalı olacaktır. Avantajları ve dezavantajlarının göz önünde bulundurulması gerektiğini unutmamalıyız.&lt;/p&gt;
+
+&lt;p&gt;Günümüz tarayıcılarının imkanları geniş ve modern teknolojilere hızlıca destek veriyor olsalar da sınırsız olmadığını unutmamak lazım.&lt;/p&gt;
+
+&lt;p&gt;Aşağıda her hangi bir framework’e bağımlı kalmadan kullanabileceğiniz bir kaç State Management library repo’ları paylaştım.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://redux.js.org/&quot;&gt;https://redux.js.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://facebook.github.io/immutable-js/&quot;&gt;https://facebook.github.io/immutable-js/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/mobxjs/mobx&quot;&gt;https://github.com/mobxjs/mobx&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Javascript" /><category term="Design Pattern" /><summary type="html">Geniş çaplı uygulamaların karmaşıklık seviyesi, projenin büyüme hızıyla doğru orantılıdır. Özellikle proje javascript gibi bir dil ile geliştiriliyorsa state management gibi design pattern‘ların kullanımı zorunluluk hale geliyor.</summary></entry></feed>
+>>>>>>> ...

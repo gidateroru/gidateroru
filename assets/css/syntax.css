@@ -58,3 +58,12 @@
 .codehilite .vg { color: #008080 } /* Name.Variable.Global */
 .codehilite .vi { color: #008080 } /* Name.Variable.Instance */
 .codehilite .il { color: #009999 } /* Literal.Number.Integer.Long */
+
+.row.header div {
+    font-weight: bold;
+    border-bottom: solid 1px black;
+}
+
+.row.body {
+    border-bottom: solid 1px #ccc;
+}
