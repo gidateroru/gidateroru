@@ -1,7 +1,7 @@
 name: "Gıda Terörü"
 description: "Lightweight theme"
 
-permalink: /gidateroru/:categories/:year/:month/:day/:title:output_ext
+permalink: /:categories/:year/:month/:day/:title:output_ext
 
 title: "Gıda Terörü"
 email: "gidadateror@gmail.com"
