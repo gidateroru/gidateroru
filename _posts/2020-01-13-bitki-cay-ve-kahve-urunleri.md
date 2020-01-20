@@ -2,10 +2,8 @@
 layout: post
 title: BİTKİ, ÇAY ve KAHVE ÜRÜNLERİ
 date: 2020-01-13 03:00:00 +0300
-description: Tarım ve Orman Bakanlığının yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 Sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanun’unun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.
-img: state-management-pattern-diagram.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
-tags: [İçecekler]
+description: Tarım ve Orman Bakanlığı’nın yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 sayılı “Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu”nun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.
+tags: [Bitki, Çay, Kahve]
 categories: [icecekler]
 ---
 

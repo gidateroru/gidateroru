@@ -1,0 +1,410 @@
+[
+    {
+        "id": 1,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Anadolu",
+        "product": "Riviera Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma,Yağ asitleri Kompozisyonu, sterol kompozisyonu, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "7"
+    },
+    {
+        "id": 2,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "V.D.Ege Köy",
+        "product": "Riviera Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu, ECN-42 farkı(tohum yağlarının tespiti))",
+        "serial": "6"
+    },
+    {
+        "id": 3,
+        "company": "Merkan Gıda Hayvancılık İnş. İth. İhr. San. ve Tic. Ltd. Şti. (Torbalı/İZMİR)",
+        "brand": "Ayvalık",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri, mumsu madde miktarı, ECN-42 farkı(tohum yağlarının tespiti))",
+        "serial": "006"
+    },
+    {
+        "id": 4,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "V .D.Ege Köy",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri, mumsu madde miktarı, ECN-42 farkı(tohum yağlarının tespiti))",
+        "serial": "7"
+    },
+    {
+        "id": 5,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Bizim Egebirlik",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri, mumsu madde miktarı, ECN-42 farkı(tohum yağlarının tespiti))",
+        "serial": "6"
+    },
+    {
+        "id": 6,
+        "company": "Olgun Ak Gıda Turizm İnşaat Taahhüt Temizlik Maddeleri Sanayi Ticaret Limited Şirketi (Menemen/İZMİR)",
+        "brand": "Yağcı Egebirlik",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu, mumsu madde miktarı, ECN-42 farkı(tohum yağlarının tespiti))",
+        "serial": "22"
+    },
+    {
+        "id": 7,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Egeli Zeytindağ",
+        "product": "Riviera Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma,Yağ asitleri Kompozisyonu, sterol kompozisyonu, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "6"
+    },
+    {
+        "id": 8,
+        "company": "Alioğlu Toptan Gıda - Sabri AKIN(Yıldırım/BURSA)",
+        "brand": "Ay Körfezim Gemlik",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, sterol kompozisyonu, yağ asitleri kompozisyonu, trans yağ asitleri,mumsu madde miktarı, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "20.12.2020"
+    },
+    {
+        "id": 9,
+        "company": "Alioğlu Toptan Gıda - Sabri AKIN(Yıldırım/BURSA)",
+        "brand": "Yeşil Ege",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(Yağ asitleri kompozisyonu, trans yağ asitleri,sterol kompozisyonu, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "0012"
+    },
+    {
+        "id": 10,
+        "company": "Ege Değirmen Gıda Nak. Paz. İth. İhr. San. ve Tic. Ltd. Şti. (Nilüfer/BURSA)",
+        "brand": "Zümrüt Köy",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri, mumsu madde miktarı, ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "03.02.2020"
+    },
+    {
+        "id": 11,
+        "company": "Meryem SEPET (Köşk - AYDIN)",
+        "brand": "Ay İnci",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, sterol kompozisyonu, yağ asitleri kompozisyonu, trans yağ asitleri, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "007"
+    },
+    {
+        "id": 12,
+        "company": "E.A.T. Tarım Ürünleri Gıda Sanayi Tic. Ltd. Şti. ( Efeler/ AYDIN)",
+        "brand": "Grand Zeybek",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, sterol kompozisyonu, yağ asitleri kompozisyonu, trans yağ asitleri, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "10"
+    },
+    {
+        "id": 13,
+        "company": "E.A.T. Tarım Ürünleri Gıda Sanayi Tic. Ltd. Şti. ( Efeler/ AYDIN)",
+        "brand": "Zeybek",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, sterol kompozisyonu, yağ asitleri kompozisyonu, trans yağ asitleri, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "03"
+    },
+    {
+        "id": 14,
+        "company": "E.A.T. Tarım Ürünleri Gıda Sanayi Tic. Ltd. Şti. ( Efeler/ AYDIN)",
+        "brand": "M Ege Menderes",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, sterol kompozisyonu, yağ asitleri kompozisyonu, trans yağ asitleri, mumsu madde miktarı, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "01"
+    },
+    {
+        "id": 15,
+        "company": "Ahmet Gürpınar Zeytinİşletmeleri (Ayvalık/BALIKESİR) Satıcı:Cihan Tarım Ürünleri-Yalçın CİHAN",
+        "brand": "Ayvalık",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(Sterol kompozisyonu, yağ asitleri kompozisyonu, trans yağ asitleri, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "06.2020"
+    },
+    {
+        "id": 16,
+        "company": "Ovabey Gıda Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Ovabey",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma,Yağ asitleri kompozisyonu, sterol kompozisyonu, trans yağ asitleri Yağ asidi etil esterleri(daha düşük kaliteli zeytinyağ karıştırılması),,ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "06.2017"
+    },
+    {
+        "id": 17,
+        "company": "Biziz Gıda Tar. Taş. İnş. Madencilik Otom. San. ve Tic. Limited Şirketi.(Mudanya /BURSA)",
+        "brand": "Kınalıkaya",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, sterol kompozisyonu, eritrodiol ve uvaol mumsu madde miktarı(Pirina yağı karıştırılması) ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "01.2018"
+    },
+    {
+        "id": 18,
+        "company": "E.A.T. Tarım Ürünleri Gıda Sanayi Tic. Ltd. Şti. ( Efeler/ AYDIN)",
+        "brand": "Grand Yayla",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, sterol kompozisyonu, yağ asitleri kompozisyonu, trans yağ asitleri, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "10"
+    },
+    {
+        "id": 19,
+        "company": "Yağmur Gıda (Merkez/ÇANAKKALE)",
+        "brand": "Yeni Yurdum",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, sterol kompozisyonu, mumsu madde miktarı,trans yağ asitleri, ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "0011"
+    },
+    {
+        "id": 20,
+        "company": "Olgun Ak Gıda Turizm İnşaat Taahhüt Temizlik Maddeleri Sanayi Ticaret Limited Şirketi (Menemen/İZMİR)",
+        "brand": "Yağcı Egebirlik",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, sterol kompozisyonu, mumsu madde miktarı,trans yağ asitleri, ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "10"
+    },
+    {
+        "id": 21,
+        "company": "Güney Tüketim Mal. Tic.San.Ltd.Şti. (Kemalpaşa/İZMİR )",
+        "brand": "Selin",
+        "product": "Rafine Vinterize Yemeklik Ayçiçek Yağı",
+        "unsuitability": "(Yağ asitleri kompozisyonu, sterol kompozisyonu (ayçiçek yağından başka tohum yağları tespiti))",
+        "serial": "11"
+    },
+    {
+        "id": 22,
+        "company": "Yağmur Gıda-Bünyamin SALTIK (Çanakkale)",
+        "brand": "Ayvalık Safir",
+        "product": "Rafine Vinterize Yemeklik Ayçiçek Yağı",
+        "unsuitability": "(UV'de özgül soğurma, sterol kompozisyonu, yağ asitleri kompozisyonu, trans yağ asitleri, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "02"
+    },
+    {
+        "id": 23,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Bizim Egebirlik",
+        "product": "Rafine Vinterize Yemeklik Ayçiçek Yağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri, mumsu madde miktarı, Yağ asidi etil esterleri(daha düşük kaliteli zeytinyağ karıştırılması),ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "10(5 lt.)"
+    },
+    {
+        "id": 24,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "V.D Ege köy",
+        "product": "Riviera Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, Yağ asitleri kompozisyonu, sterol kompozisyonu, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "11"
+    },
+    {
+        "id": 25,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "V.D Ege köy",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri,ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "9"
+    },
+    {
+        "id": 26,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Ege Körfez",
+        "product": "Riviera Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri,ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "11"
+    },
+    {
+        "id": 27,
+        "company": "Zeytinova İth. İhr. Yağ Sabun Gıda San. Ve Tic. Ltd. Şti. (Antakya /HATAY)",
+        "brand": "Hanımeli Sofra",
+        "product": "Riviera Zeytinyağı",
+        "unsuitability": "(Yağ asitleri kompozisyonu, sterol kompozisyonu, ECN-42 farkı (tohum yağlarının tespiti)",
+        "serial": "21123018"
+    },
+    {
+        "id": 28,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Saklı Bahçe Egeden",
+        "product": "Sızma Zeytinyağı",
+        "unsuitability": "( yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri,ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "01.2021"
+    },
+    {
+        "id": 29,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Bizim Egebirlik",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri,ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "8"
+    },
+    {
+        "id": 30,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Ay Anadolu",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri,ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "11"
+    },
+    {
+        "id": 31,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Anadolu",
+        "product": "Riviera Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu ,,ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "11"
+    },
+    {
+        "id": 32,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "V.D Ege köy",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri,ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "10"
+    },
+    {
+        "id": 33,
+        "company": "Basküloğlu Gıda ve Ticaret Ltd. Şti.-Yağ Dolum Tesisi (Melikgazi/ KAYSERİ)",
+        "brand": "Ege Damlası",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma,Yağ asitleri kompozisyonu, sterol kompozisyonu, trans yağ asitleri,mumsu madde miktarı, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "Ekim 2020"
+    },
+    {
+        "id": 34,
+        "company": "Merkan Gıda Hayvancılık İnş. İth. İhr. San. ve Tic. Ltd. Şti. (Torbalı/İZMİR)",
+        "brand": "Ayvalık",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri,ECN-42 farkı(tohum yağlarının tespiti))",
+        "serial": "0718"
+    },
+    {
+        "id": 35,
+        "company": "Merkan Gıda Hayvancılık İnş. İth. İhr. San. ve Tic. Ltd. Şti. (Torbalı/İZMİR)",
+        "brand": "Ayvalık",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri, ECN-42 farkı(tohum yağlarının tespiti))",
+        "serial": "012"
+    },
+    {
+        "id": 36,
+        "company": "Ovabey Gıda Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Menderes",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma,Yağ asitleri kompozisyonu, sterol kompozisyonu, trans yağ asitleri,ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "002"
+    },
+    {
+        "id": 37,
+        "company": "Mare Zeytincilik Gıda Madencilik Sanayi Ticaret Limited Şirketi (Orhangazi /BURSA)",
+        "brand": "Mare Organic",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma,Yağ asitleri kompozisyonu, sterol kompozisyonu,ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "Aralık-Ocak"
+    },
+    {
+        "id": 38,
+        "company": "Türkoğlu Toptan Gıda - Hasan TÜRKOĞLU (Yıldırım/BURSA)",
+        "brand": "Körfezim Dora",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma,Yağ asitleri kompozisyonu, sterol kompozisyonu, trans yağ asitleri,ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "004"
+    },
+    {
+        "id": 39,
+        "company": "Yağmur Gıda (Çanakkale) Satıcı:Türkoğlu Toptan Gıda - Hasan TÜRKOĞLU (Yıldırım/BURSA)",
+        "brand": "Ünlügüzel",
+        "product": "Sızma Zeytinyağı",
+        "unsuitability": "(Yağ asitleri kompozisyonu, sterol kompozisyonu, trans yağ asitleri,ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "04"
+    },
+    {
+        "id": 40,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Bizim Egebirlik",
+        "product": "Riviera Zeytinyağı",
+        "unsuitability": "(Yağ asitleri Kompozisyonu, sterol kompozisyonu, trans yağ asitleri, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "11"
+    },
+    {
+        "id": 41,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Ege Doğa",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma,Yağ asitleri kompozisyonu, sterol kompozisyonu,ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "9"
+    },
+    {
+        "id": 42,
+        "company": "Alioğlu Toptan Gıda - Sabri AKIN(Arabayatağı Mah. Okul Caddesi No:17/A Yıldırım/BURSA)",
+        "brand": "Geyikli Hasat",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(yağ asitleri kompozisyonu, sterol kompozisyonu, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "01"
+    },
+    {
+        "id": 43,
+        "company": "Alioğlu Toptan Gıda - Sabri AKIN(Arabayatağı Mah. Okul Caddesi No:17/A Yıldırım/BURSA)",
+        "brand": "Yeşil Ege",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, trans yağ asitleri,sterol kompozisyonu, mumsu madde miktarı, ECN-42 farkı (tohum yağlarının tespiti))",
+        "serial": "0016"
+    },
+    {
+        "id": 44,
+        "company": "Merkan Gıda Hayvancılık İnş. İth. İhr. San. ve Tic. Ltd. Şti. (Torbalı/İZMİR)",
+        "brand": "Ayvalık",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri, ECN-42 farkı(tohum yağlarının tespiti))",
+        "serial": "007"
+    },
+    {
+        "id": 45,
+        "company": "Merkan Gıda Hayvancılık İnş. İth. İhr. San. ve Tic. Ltd. Şti. (Torbalı/İZMİR)",
+        "brand": "Ayvalık",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri, ECN-42 farkı(tohum yağlarının tespiti))",
+        "serial": "009"
+    },
+    {
+        "id": 46,
+        "company": "Zeytinova İth. İhr. Yağ Sabun Gıda San. Ve Tic. Ltd. Şti. (Antakya /HATAY)",
+        "brand": "Altınöz",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri, ECN-42 farkı(tohum yağlarının tespiti))",
+        "serial": "13042018"
+    },
+    {
+        "id": 47,
+        "company": "Zeytinova İth. İhr. Yağ Sabun Gıda San. Ve Tic. Ltd. Şti. (Antakya /HATAY)",
+        "brand": "Hanımeli Sofra",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri, ECN-42 farkı(tohum yağlarının tespiti))",
+        "serial": "13072018"
+    },
+    {
+        "id": 48,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Ege Zeytindağ",
+        "product": "Riviera Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri, ECN-42 farkı(tohum yağlarının tespiti))",
+        "serial": "7"
+    },
+    {
+        "id": 49,
+        "company": "Ege Temmuz Gıda Tur. İnş.Tah. Sanayi ve Ticaret Limited Şirketi (Orhangazi/BURSA)",
+        "brand": "Bizim Egebirlik",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri, ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "10(1 lt)"
+    },
+    {
+        "id": 50,
+        "company": "Soliya Gıda İnşaat Paz. San. ve Tic. Ltd. Şti.(Torbalı/İZMİR)",
+        "brand": "Ankara Yayla",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri, ECN-42 farkı(tohum yağlarının tespiti)",
+        "serial": "09"
+    },
+    {
+        "id": 51,
+        "company": "Özışıl Gıda San. ve Tic. Ltd. Şti.(AYDIN )",
+        "brand": "May Mis",
+        "product": "Natürel Sızma Zeytinyağı",
+        "unsuitability": "asitleri kompozisyonu, sterol kompozisyonu, Yağ asidi etil esterleri(daha düşük kaliteli zeytinyağ karıştırılması),ECN-42 farkı (tohum yağlarının tespiti)",
+        "serial": "01"
+    }
+]
