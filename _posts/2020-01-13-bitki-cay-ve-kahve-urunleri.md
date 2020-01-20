@@ -1,11 +1,12 @@
 ---
 layout: post
-title: BAHARAT
+title: BİTKİ, ÇAY ve KAHVE ÜRÜNLERİ
 date: 2020-01-13 03:00:00 +0300
-description: Tarım ve Orman Bakanlığı’nın yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 sayılı “Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu”nun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.
+description: Tarım ve Orman Bakanlığının yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 Sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanun’unun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.
+img: state-management-pattern-diagram.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Baharat]
-categories: [baharat]
+tags: [İçecekler]
+categories: [icecekler]
 ---
 
 Tarım ve Orman Bakanlığı’nın yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 sayılı “Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu”nun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.
@@ -14,13 +15,16 @@ Ayrıca, 17 Aralık 2011 tarihli Gıda ve Yemin Resmi Kontrolüne Dair Yönetmel
 
 Bu kapsamda, laboratuvar sonucu ile kişilerin hayatını ve sağlığını tehlikeye düşürecek şekilde bozulmuş ve değiştirilmiş ürünlere ait bilgiler ile taklit/tağşiş yapılmış ürüne ait bilgiler aşağıda yer almaktadır.
 
+Kamuoyunun bilgisine sunulur.
+
 <h2>Kamuoyuna duyuru tarihi: 13.01.2020</h2>
+
+
 
 <div class="container">
     {% include list-header.html %}
-    {% for a in site.data.sb13012020.baharat %}
+    {% for a in site.data.sb13012020.bitki_cay_ve_kahve_urunleri %}
     {% include list-item.html row=a %}
     {% endfor %}
 </div>
- 
  

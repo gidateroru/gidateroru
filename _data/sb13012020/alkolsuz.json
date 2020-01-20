@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "company": "Doruk Gıda İmalat ve paketleme- Celal BİLECEN Avcılar/İSTANBUL",
+        "brand": "Diblong",
+        "product": "Tutti Frutti Aromalı Ginsengli Gazlı İçecek",
+        "unsuitability": "İlaç etken maddesi (Sildenafil)",
+        "serial": "26022018"
+    },
+    {
+        "id": 2,
+        "company": "Doruk Gıda İmalat ve paketleme- Celal BİLECEN Avcılar/İSTANBUL",
+        "brand": "Drill Plus Ginseng Drink 4 in 1",
+        "product": "Ginsengli Tutti Frutti Aromalı Gazlı İçecek 150 ml",
+        "unsuitability": "İlaç etken maddesi (Sildenafil)",
+        "serial": "02012019"
+    },
+    {
+        "id": 3,
+        "company": "Global Enerji İçecekleri -Ali YELYETMEZ Beylikdüzü/İSTANBUL",
+        "brand": "Nitro Max Gold",
+        "product": "Tutti Frutti Aromalı Ginsengli Gazlı İçecek 150 ml",
+        "unsuitability": "İlaç etken maddesi (Sildenafil)",
+        "serial": "15072020"
+    },
+    {
+        "id": 4,
+        "company": "Atlas İçecek Üretim Dağıtım ve Ticaret-Serhan DÖNER Esenyurt/İSTANBUL",
+        "brand": "Jett Plus Rising Generation",
+        "product": "Tutti Frutti Aromalı Gazlı İçecek 150 ml",
+        "unsuitability": "İlaç etken maddesi (Sildenafil)",
+        "serial": "02012019"
+    },
+    {
+        "id": 5,
+        "company": "Global Enerji İçecekleri -Ali YELYETMEZ Beylikdüzü/İSTANBUL",
+        "brand": "Nitro Max Gold",
+        "product": "Tutti Frutti Aromalı Ginsengli Gazlı İçecek",
+        "unsuitability": "İlaç etken maddesi (Sildenafil)",
+        "serial": "0408"
+    }
+]

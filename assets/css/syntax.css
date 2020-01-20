@@ -66,4 +66,9 @@
 
 .row.body {
     border-bottom: solid 1px #ccc;
+    padding: 15px 0px;
+}
+
+.row.body:nth-of-type(odd) {
+    background-color: #f6f6ff ;
 }

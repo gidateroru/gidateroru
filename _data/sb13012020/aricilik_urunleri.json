@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "company": "İrem Hanım Çiftliği Tarım İşletmeleri A.Ş./ Kağıthane/İSTANBUL",
+        "brand": "Demirköy",
+        "product": "Süzme Çiçek Balı",
+        "unsuitability": "Diastaz, HMF, C4 Şeker Oranı, Delta C13 Değeri, Fruktoz/Glukoz",
+        "serial": "2020"
+    },
+    {
+        "id": 2,
+        "company": "Hünkar Bal - Gökdağ KARAKAYA/ Çankaya/ANKARA",
+        "brand": "Billur Bal",
+        "product": "Petekli Süzme Çiçek Balı",
+        "unsuitability": "Prolin, Diastaz, C4 Şeker Oranı, Protein ve Hambal Delta C13 Değerleri Arasındaki Fark, Sakkaroz, Fruktoz+Glukoz",
+        "serial": "0709"
+    },
+    {
+        "id": 3,
+        "company": "Hünkar Bal - Gökdağ KARAKAYA/ Çankaya/ANKARA",
+        "brand": "Billur Bal",
+        "product": "Petekli Süzme Çiçek Balı (Akasya)",
+        "unsuitability": "Prolin, Diastaz, C4 Şeker Oranı, Protein ve Hambal Delta C13 Değerleri Arasındaki Fark, Sakkaroz, Fruktoz+Glukoz",
+        "serial": "2311"
+    },
+    {
+        "id": 4,
+        "company": "Tire Eroğlu Gıda Tarım ve Hayv. San. Tic. Ltd. Şti./ Tire/İZMİR",
+        "brand": "Tire Birlik",
+        "product": "Süzme Çiçek Balı",
+        "unsuitability": "Elektriksel İletkenlik, C4 Şeker Oranı, Delta C13 Değeri",
+        "serial": "12/2020"
+    }
+]

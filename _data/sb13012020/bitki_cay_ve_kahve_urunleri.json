@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "company": "Se-Fa Gıda Mad. San. İnş. Turz. Nak. Tic. Ltd. Şti. Sürmene/TRABZON",
+        "brand": "Of-Sefa Balım",
+        "product": "Siyah Çay",
+        "unsuitability": "Boya/Gıda Boyası Tespiti",
+        "serial": "A-001"
+    },
+    {
+        "id": 2,
+        "company": "Ada Çay San. Paz. Dış Tic. Ltd. Şti. Güneysu/RİZE",
+        "brand": "Simge Rize Çayı Siyah 500 gr.",
+        "product": "Siyah Çay",
+        "unsuitability": "Boya/Gıda Boyası Tespiti",
+        "serial": "A-001"
+    },
+    {
+        "id": 3,
+        "company": "Ada Çay San. Paz. Dış Tic. Ltd. Şti. Güneysu/RİZE",
+        "brand": "Halley Çay Export Siyah Çay",
+        "product": "Siyah Çay",
+        "unsuitability": "Boya/Gıda Boyası Tespiti",
+        "serial": "A-001"
+    },
+    {
+        "id": 4,
+        "company": "Vega Gıda Sanayi Anonim Şirketi Merkez/RİZE",
+        "brand": "Vega Çay Gold 500 gr.",
+        "product": "Siyah Çay",
+        "unsuitability": "Boya/Gıda Boyası Tespiti",
+        "serial": "VCR181018"
+    },
+    {
+        "id": 5,
+        "company": "Altınbaşak Çay ve Gıda Mad. San. ve Tic. Ltd. Şti. Merkez/RİZE",
+        "brand": "Altınbaşak Prestij Siyah Çay",
+        "product": "Siyah Çay",
+        "unsuitability": "Boya/Gıda Boyası Tespiti",
+        "serial": "009"
+    },
+    {
+        "id": 6,
+        "company": "Ufuk Çay Sanayi Ticaret A.Ş. Çayeli/RİZE",
+        "brand": "Esvet Filiz Çayı 500gr.",
+        "product": "Siyah Çay",
+        "unsuitability": "Boya/Gıda Boyası Tespiti",
+        "serial": "A-05"
+    },
+    {
+        "id": 7,
+        "company": "Ergin Çay-Muhammet ERGİN Ardeşen/RİZE",
+        "brand": "Sergen Gold Siyah Çay 500 gr.",
+        "product": "Siyah Çay",
+        "unsuitability": "Boya/Gıda Boyası Tespiti",
+        "serial": "Ç-01"
+    },
+    {
+        "id": 8,
+        "company": "Değirmencioğlu Çay Arsin/TRABZON",
+        "brand": "Nova",
+        "product": "Siyah Çay",
+        "unsuitability": "Boya/Gıda Boyası Tespiti",
+        "serial": "A-001"
+    },
+    {
+        "id": 9,
+        "company": "Değirmencioğlu Çay Arsin/TRABZON",
+        "brand": "Gökçay",
+        "product": "Siyah Çay",
+        "unsuitability": "Boya/Gıda Boyası Tespiti",
+        "serial": "A-001"
+    },
+    {
+        "id": 10,
+        "company": "Tirebolu Çaysan Çay San. Tic. A.Ş. Tirebolu/GİRESUN",
+        "brand": "Elmas Gold",
+        "product": "Siyah Çay",
+        "unsuitability": "Boya/Gıda Boyası Tespiti",
+        "serial": "0025"
+    },
+    {
+        "id": 11,
+        "company": "Altıncezve Gıda Konfeksiyon Tekstil San. ve Tic. Ltd. Şti. Yıldırım/BURSA",
+        "brand": "Altıncezve Filiz Çay",
+        "product": "Siyah Çay",
+        "unsuitability": "Boya/Gıda Boyası Tespiti",
+        "serial": "Ç015"
+    }
+]

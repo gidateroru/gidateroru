@@ -17,12 +17,9 @@ Bu kapsamda, taklit veya tağşiş yapıldığı kesinleşmiş ürünlere ait bi
 <h2>Kamuoyuna duyuru tarihi: 13.01.2020</h2>
 
 <div class="container">
-    <div class="row header">
-        <div class="col-3 center">FİRMA ADI</div>
-        <div class="col-2 center">MARKA</div>
-        <div class="col-2 center">ÜRÜN ADI</div>
-        <div class="col-3 center">UYGUNSUZLUK</div>
-        <div class="col-1 center">PARTİ/SERİ NO</div>
-    </div>
+    {% include list-header.html %}
+    {% for a in site.data.sb13012020.aricilik_urunleri %}
+    {% include list-item.html row=a %}
+    {% endfor %}
 </div>
  

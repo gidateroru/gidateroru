@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "company": "İpekyolu Baharat ve Gıda San. İth. İhr. Tic. Ve Paz. Ltd. Şti. Yenimahalle/ANKARA",
+        "brand": "Kalaycı",
+        "product": "Toz Tatlı Biber",
+        "unsuitability": "Boya/Gıda Boyası Tespiti",
+        "serial": "31/207"
+    },
+    {
+        "id": 2,
+        "company": "İpekyolu Baharat ve Gıda San. İth. İhr. Tic. Ve Paz. Ltd. Şti. Yenimahalle/ANKARA",
+        "brand": "İpekyolu",
+        "product": "Toz Tatlı Biber",
+        "unsuitability": "Boya/Gıda Boyası Tespiti",
+        "serial": "31/103"
+    }
+]
