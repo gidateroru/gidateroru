@@ -1,11 +1,10 @@
 name: "Gıda Terörü"
-description: "Lightweight theme"
+description: "Gıda sektöründeki zehir tacirlerinin ifşa edildiği platform."
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
 title: "Gıda Terörü"
 email: "gidadateror@gmail.com"
-description: "Test"
 
 url: '' 
 baseurl: '/gidateroru'
@@ -21,9 +20,9 @@ kramdown:
 plugins:
   - jekyll-paginate
 paginate: 10
-paginate_path: /page-:num
+paginate_path: /gidateroru/page-:num
 
-disqus-id: gidateroru
+disqus-id: gidateoru
 
 source: .
 destination: ./_site
