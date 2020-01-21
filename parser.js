@@ -7,7 +7,7 @@ const data = file
   .split(/==.*==/g)
   .filter(Boolean)
   .map(column => column.split(/\n/).filter(Boolean));
-
+console.log(file.toString());
 let records = [];
 let j = 1;
 
