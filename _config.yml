@@ -6,7 +6,7 @@ permalink: /:categories/:year/:month/:day/:title:output_ext
 title: "Gıda Terörü"
 email: "gidadateror@gmail.com"
 
-url: '' 
+url: 'http://gidateroru.github.io/gidateroru' 
 baseurl: '/gidateroru'
 
 markdown: kramdown
@@ -19,6 +19,7 @@ kramdown:
 
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 paginate: 10
 paginate_path: /gidateroru/page-:num
 
