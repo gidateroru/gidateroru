@@ -3,10 +3,9 @@ layout: post
 title: ET VE ET ÜRÜNLERİ
 date: 2020-01-13 03:00:00 +0300
 description: Tarım ve Orman Bakanlığı’nın yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 sayılı “Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu”nun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.
-img: state-management-pattern-diagram.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [İçecekler]
-categories: [icecekler]
+tags: [Et, Et Ürünleri]
+categories: [et]
 ---
 
 Tarım ve Orman Bakanlığı’nın yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 sayılı “Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu”nun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.

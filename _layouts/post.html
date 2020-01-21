@@ -3,7 +3,7 @@ layout: default
 ---
 <h1>{{ page.title }}{{ page.shortUrl }}</h1>
 <div class='separator'></div>
-        
+{{ page.date | date: "%-d %B %Y" }}
 {{ content }}
         
 {% if site.disqus-id %} {% include comments.html %} {% endif %}

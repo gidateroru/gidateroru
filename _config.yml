@@ -23,7 +23,7 @@ plugins:
 paginate: 10
 paginate_path: /page-:num
 
-#disqus-id: your-disqus-id
+disqus-id: gidateroru
 
 source: .
 destination: ./_site
