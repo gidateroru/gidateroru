@@ -24,5 +24,41 @@ Kamuoyunun bilgisine sunulur.
     {% for a in site.data.sb13012020.et_ve_et_urunleri_part_1 %}
     {% include list-item.html row=a %}
     {% endfor %}
+
+    {% for a in site.data.sb13012020.et_ve_et_urunleri_part_2 %}
+    {% include list-item.html row=a %}
+    {% endfor %}
+
+    {% for a in site.data.sb13012020.et_ve_et_urunleri_part_3 %}
+    {% include list-item.html row=a %}
+    {% endfor %}
+
+    {% for a in site.data.sb13012020.et_ve_et_urunleri_part_4 %}
+    {% include list-item.html row=a %}
+    {% endfor %}
+
+    {% for a in site.data.sb13012020.et_ve_et_urunleri_part_5 %}
+    {% include list-item.html row=a %}
+    {% endfor %}
+
+    {% for a in site.data.sb13012020.et_ve_et_urunleri_part_6 %}
+    {% include list-item.html row=a %}
+    {% endfor %}
+
+    {% for a in site.data.sb13012020.et_ve_et_urunleri_part_7 %}
+    {% include list-item.html row=a %}
+    {% endfor %}
+
+    {% for a in site.data.sb13012020.et_ve_et_urunleri_part_8 %}
+    {% include list-item.html row=a %}
+    {% endfor %}
+
+    {% for a in site.data.sb13012020.et_ve_et_urunleri_part_9 %}
+    {% include list-item.html row=a %}
+    {% endfor %}
+
+    {% for a in site.data.sb13012020.et_ve_et_urunleri_part_10 %}
+    {% include list-item.html row=a %}
+    {% endfor %}
 </div>
  
