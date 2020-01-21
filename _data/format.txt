@@ -1,9 +1,15 @@
 ==company==
-
+Atlas İçecek Üretim Dağıtım ve Ticaret-Serhan DÖNER Esenyurt/İSTANBUL
+Göçmez Gıda-Engin GÖÇMEZ Esenyurt/İSTANBUL
 ==brand==
-
+Fire Horse Premium
+By Hercules Plus
 ==product==
-
+Energy Drink
+Energy Drink
 ==unsuitability==
-
+İlaç Etkin Maddesi (Sildenafil)
+İlaç Etkin Maddesi (Sildenafil)
 ==serial==
+341907
+23092018
