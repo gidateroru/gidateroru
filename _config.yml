@@ -6,7 +6,7 @@ permalink: /:categories/:year/:month/:day/:title:output_ext
 title: "Gıda Terörü"
 email: "gidadateror@gmail.com"
 
-url: 'http://gidateroru.github.io/gidateroru' 
+url: 'http://gidateroru.github.io' 
 baseurl: '/gidateroru'
 
 markdown: kramdown
