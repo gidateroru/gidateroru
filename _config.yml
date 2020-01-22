@@ -21,7 +21,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 paginate: 10
-paginate_path: /gidateroru/page-:num
+paginate_path: /page-:num
 
 disqus-id: gidateoru
 

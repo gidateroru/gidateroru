@@ -5,7 +5,7 @@ layout: default
 {% for post in paginator.posts %}
 <section style="border-bottom: solid 1px #ccc;">
   <h2>
-    <a href='{{ site.url }}/gidateroru{{ post.url }}' title='{{ post.title }}'>
+    <a href='{{ site.url }}{{ post.url }}' title='{{ post.title }}'>
       {{ post.title }}
     </a>
   </h2>
@@ -18,12 +18,12 @@ layout: default
 {% endfor %}
 
 {% if paginator.previous_page %}
-<a href='{{ site.url }}/gidateroru{{ paginator.previous_page_path }}'>Önceki</a>
+<a href='{{ site.url }}{{ paginator.previous_page_path }}'>Önceki</a>
 {% endif %}
 
 &mdash; {{ paginator.page }} / {{ paginator.total_pages }} &mdash;
 
 {% if paginator.next_page %}
-<a href='{{ site.url }}/gidateroru{{ paginator.next_page_path }}'>Sonraki</a>
+<a href='{{ site.url }}{{ paginator.next_page_path }}'>Sonraki</a>
 {% endif %}
 
