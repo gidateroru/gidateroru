@@ -3,17 +3,17 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-<section style="border-bottom: solid 1px #ccc;">
+<section style="border-bottom: solid 1px #ccc;max-width: 780px;">
   <h2>
     <a href='{{ site.url }}{{ post.url }}' title='{{ post.title }}'>
       {{ post.title }}
     </a>
   </h2>
   
-  <time datetime="{{ post.date }}"><strong><i>{{ post.date | date: "%-d/%m/%Y" }}</i></strong></time>
+  <time datetime="{{ post.date }}"><strong><i>Tarih: {{ post.date | date: "%-d/%m/%Y" }}</i></strong></time>
   
 
-  <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
+  <p style="max-width: 780px;">{{ post.excerpt | strip_html | truncate: 250 }} <a href='{{ site.url }}{{ post.url }}' title='{{ post.title }}'>Devamını oku</a></p>
 </section>
 {% endfor %}
 
