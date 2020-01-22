@@ -3,8 +3,8 @@ layout: post
 title: TAKVİYE EDİCİ GIDALAR VB. ÜRÜNLER
 date: 2020-01-13 03:00:00 +0300
 description: Tarım ve Orman Bakanlığının yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 Sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanun’unun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.
-tags: [Şekerli Mamüller]
-categories: [sekerli-mamuller]
+tags: [Takviye Edici Gıdalar]
+categories: [takviye-edici-gidalar]
 ---
 
 Tarım ve Orman Bakanlığının yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 Sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanun’unun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.
