@@ -1,12 +1,11 @@
 ---
 layout: post
-title: ALKOLSÜZ İÇECEKLER
+title:  ÇİKOLATA VE KAKAO ÜRÜNLERİ
 date: 2020-01-13 03:00:00 +0300
 description: Tarım ve Orman Bakanlığının yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 Sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanun’unun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.
-img: state-management-pattern-diagram.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [İçecekler]
-categories: [icecekler]
+tags: [Çikolata, Kakao]
+categories: [cikolata]
 ---
 
 Tarım ve Orman Bakanlığının yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 Sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanun’unun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.
@@ -19,11 +18,18 @@ Kamuoyunun bilgisine sunulur.
 
 <h2>Kamuoyuna duyuru tarihi: 13.01.2020</h2>
 
-
-
 <div class="container">
     {% include list-header.html %}
-    {% for a in site.data.sb13012020.alkolsuz %}
+
+    {% for a in site.data.tob13012020.cikolata_ve_kakao_urunleri_part_1 %}
+    {% include list-item.html row=a %}
+    {% endfor %}
+
+    {% for a in site.data.tob13012020.cikolata_ve_kakao_urunleri_part_2 %}
+    {% include list-item.html row=a %}
+    {% endfor %}
+
+    {% for a in site.data.tob13012020.cikolata_ve_kakao_urunleri_part_3 %}
     {% include list-item.html row=a %}
     {% endfor %}
 </div>

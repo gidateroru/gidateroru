@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  ÇİKOLATA VE KAKAO ÜRÜNLERİ
+title: TAKVİYE EDİCİ GIDALAR VB. ÜRÜNLER
 date: 2020-01-13 03:00:00 +0300
 description: Tarım ve Orman Bakanlığının yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 Sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanun’unun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.
-fig-caption: # Add figcaption (optional)
-tags: [Çikolata, Kakao]
-categories: [cikolata]
+tags: [Takviye Edici Gıdalar]
+categories: [takviye-edici-gidalar]
 ---
 
 Tarım ve Orman Bakanlığının yaptığı kontroller sonucunda sahip olduğu bilgileri, 5996 Sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanun’unun 31 inci maddesinin 6 ncı fıkrası uyarınca kamuoyunun bilgisine sunabileceği hükme bağlanmıştır.
@@ -20,16 +19,11 @@ Kamuoyunun bilgisine sunulur.
 
 <div class="container">
     {% include list-header.html %}
-
-    {% for a in site.data.sb13012020.cikolata_ve_kakao_urunleri_part_1 %}
+    {% for a in site.data.tob13012020.takviye_edici_gidalar_vb_urunler_part_1 %}
     {% include list-item.html row=a %}
     {% endfor %}
 
-    {% for a in site.data.sb13012020.cikolata_ve_kakao_urunleri_part_2 %}
-    {% include list-item.html row=a %}
-    {% endfor %}
-
-    {% for a in site.data.sb13012020.cikolata_ve_kakao_urunleri_part_3 %}
+    {% for a in site.data.tob13012020.takviye_edici_gidalar_vb_urunler_part_2 %}
     {% include list-item.html row=a %}
     {% endfor %}
 </div>

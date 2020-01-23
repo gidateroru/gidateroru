@@ -20,7 +20,7 @@ Kamuoyunun bilgisine sunulur.
 
 <div class="container">
     {% include list-header.html %}
-    {% for a in site.data.sb13012020.enerji_icecekleri %}
+    {% for a in site.data.tob13012020.enerji_icecekleri %}
     {% include list-item.html row=a %}
     {% endfor %}
 </div>

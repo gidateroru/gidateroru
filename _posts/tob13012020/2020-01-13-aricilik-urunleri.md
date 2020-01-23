@@ -18,7 +18,7 @@ Bu kapsamda, taklit veya tağşiş yapıldığı kesinleşmiş ürünlere ait bi
 
 <div class="container">
     {% include list-header.html %}
-    {% for a in site.data.sb13012020.aricilik_urunleri %}
+    {% for a in site.data.tob13012020.aricilik_urunleri %}
     {% include list-item.html row=a %}
     {% endfor %}
 </div>

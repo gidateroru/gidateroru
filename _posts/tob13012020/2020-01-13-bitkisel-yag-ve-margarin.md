@@ -21,35 +21,35 @@ Kamuoyunun bilgisine sunulur.
 <div class="container">
     {% include list-header.html %}
 
-    {% for a in site.data.sb13012020.bitkisel_yag_ve_margarin_part_1 %}
+    {% for a in site.data.tob13012020.bitkisel_yag_ve_margarin_part_1 %}
     {% include list-item.html row=a %}
     {% endfor %}
 
-    {% for a in site.data.sb13012020.bitkisel_yag_ve_margarin_part_2 %}
+    {% for a in site.data.tob13012020.bitkisel_yag_ve_margarin_part_2 %}
     {% include list-item.html row=a %}
     {% endfor %}
 
-    {% for a in site.data.sb13012020.bitkisel_yag_ve_margarin_part_3 %}
+    {% for a in site.data.tob13012020.bitkisel_yag_ve_margarin_part_3 %}
     {% include list-item.html row=a %}
     {% endfor %}
 
-    {% for a in site.data.sb13012020.bitkisel_yag_ve_margarin_part_4 %}
+    {% for a in site.data.tob13012020.bitkisel_yag_ve_margarin_part_4 %}
     {% include list-item.html row=a %}
     {% endfor %}
 
-    {% for a in site.data.sb13012020.bitkisel_yag_ve_margarin_part_5 %}
+    {% for a in site.data.tob13012020.bitkisel_yag_ve_margarin_part_5 %}
     {% include list-item.html row=a %}
     {% endfor %}
 
-    {% for a in site.data.sb13012020.bitkisel_yag_ve_margarin_part_6 %}
+    {% for a in site.data.tob13012020.bitkisel_yag_ve_margarin_part_6 %}
     {% include list-item.html row=a %}
     {% endfor %}
 
-    {% for a in site.data.sb13012020.bitkisel_yag_ve_margarin_part_7 %}
+    {% for a in site.data.tob13012020.bitkisel_yag_ve_margarin_part_7 %}
     {% include list-item.html row=a %}
     {% endfor %}
 
-    {% for a in site.data.sb13012020.bitkisel_yag_ve_margarin_part_8 %}
+    {% for a in site.data.tob13012020.bitkisel_yag_ve_margarin_part_8 %}
     {% include list-item.html row=a %}
     {% endfor %}
 </div>
