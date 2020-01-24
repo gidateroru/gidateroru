@@ -36,6 +36,9 @@
     {{ content }}
     <hr>
     <p><small> <i>Ne yediğine dikkat et...</i> </small></p>
+
+    {% if site.google-analytics-track-id %} {% include analytics.html %} {% endif %}
+
 </body>
 
 </html>

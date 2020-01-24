@@ -24,6 +24,7 @@ paginate: 10
 paginate_path: /page-:num
 
 disqus-id: gidateoru
+google-analytics-track-id: UA-156922937-1
 
 source: .
 destination: ./_site
