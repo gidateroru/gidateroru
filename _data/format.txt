@@ -1,82 +1,25 @@
 ==company==
-Övül Çikolata Şekerleme Tur. Gıda İnş. San. ve Tic. Ltd. Şti. (Menemen/İZMİR)
-Övül Çikolata Şekerleme Tur. Gıda İnş. San. ve Tic. Ltd. Şti. (Menemen/İZMİR)
-Doruk Gıda İmalat ve paketleme-Celal BİLECEN (Avcılar-İSTANBUL)
-Doruk Gıda İmalat ve paketleme-Celal BİLECEN (Avcılar-İSTANBUL)
-NY Verde Gıda Tic. Ltd. Şti. (Ataşehir/İSTANBUL)
-NY Verde Gıda Tic. Ltd. Şti. (Ataşehir/İSTANBUL)
-Global Enerji İçecekleri - Ali YELYETMEZ (Beylikdüzü/İSTANBUL)
-Global Enerji İçecekleri - Ali YELYETMEZ (Beylikdüzü/İSTANBUL)
-Global Enerji İçecekleri - Ali YELYETMEZ (Beylikdüzü/İSTANBUL)
-Global Enerji İçecekleri - Ali YELYETMEZ (Beylikdüzü/İSTANBUL)
-Global Enerji İçecekleri - Ali YELYETMEZ (Beylikdüzü/İSTANBUL)
-Global Enerji İçecekleri - Ali YELYETMEZ (Beylikdüzü/İSTANBUL)
-Global Enerji İçecekleri - Ali YELYETMEZ (Beylikdüzü/İSTANBUL)
-Global Enerji İçecekleri - Ali YELYETMEZ (Beylikdüzü/İSTANBUL)
-Global Enerji İçecekleri - Ali YELYETMEZ (Beylikdüzü/İSTANBUL)
-N.Y.T. Bitkisel Ürünler ve Fonksiyonel İçecekler üretim Dağıtım Paz. Tic. -Yalçın ÇÖMLEKÇİOĞLU Üreten: İstandol İçecek ve Gıda Üretim-Kadir KIRIMLI
+Hünkar Bal-Gökdağ KARAKAYA Çankaya/Ankara
+Balsan Bal ve Arı Ürünleri- Semra V ARGUN Nilüfer/Bursa
+Çobanoğlu Gıda-Özal ÇOBAN Çekmeköy/İstanbul
+Çeşme Süt ve Tarım Ürünleri San. Ve Tic. Paz. Ltd. Şti. Selçuk/İzmir
 ==brand==
-Ginseng Buzzer
-Ginseng Buzzer
-Diblong Shot
-Bruzzer
-8 HRS
-Dinamit
-Nitro Max Gold
-Nitro Max Gold
-Nitro Max Gold
-48 Hours Gold
-48 Hours Gold
-Bruzzer
-Bruzzer
-Bruzzer
-Bruzzer Shot
-BZR OİO
+Balvital
+Balsan
+(Markasız Ürün)
+Çeşme
 ==product==
-İced Coffe 4 in 1 performance
-İced Coffe 4 in 1 performance
-Tutti Furutti Aromalı Gazsız İçecek
-Karışık Meyve Arolmalı Gazlı İçecek
-Ginsengli Karışık Meyve Aromalı İçecek 15 ml
-Ginsengli Karışık Vitaminli Meyve Aromalı Gazlı İçecek
-Tutti Frutti Aromalı Ginsengli Gazlı İçecek 150 ml
-Tutti Frutti Aromalı İçecek 200 ml
-Tutti Frutti Aromalı Ginsengli Gazlı İçecek 200 ml
-Ginsengli Nar Aromalı İçecek 150 ml
-Ginsengli Nar Aromalı İçecek 150 ml
-Karışık Meyve Aromalı Gazlı İçecek 150 ml
-Karışık Meyve Aromalı Gazlı İçecek 150 ml
-Karışık Meyve Aromalı Gazlı İçecek 150 ml
-Karışık Meyve Aromalı Gazlı İçecek 30 ml
-Karışık Meyve Aromalı Gazlı İçecek
+Süzme Çiçek Balı
+Süzme Çiçek Balı
+Akasya Balı
+Süzme Çiçek Balı
 ==unsuitability==
-İlaç etken maddesi (Sildenafil)
-İlaç etken
-maddesi
-(Sildenafil)
-İlaç etken
-maddesi
-(Sildenafil ve
-Tadalafil) İlaç etken
-maddesi (Sildenafil)
-İlaç etken maddesi (Sildenafil)
-İlaç etken maddesi (Sildenafil)
-İlaç etken maddesi (Sildenafil) İlaç etken maddesi (Sildenafil) İlaç etken maddesi (Sildenafil) İlaç etken maddesi (Sildenafil) İlaç etken maddesi (Sildenafil) İlaç etken maddesi (Sildenafil) İlaç etken maddesi (Sildenafil) İlaç etken maddesi (Sildenafil) İlaç etken maddesi (Sildenafil ve Tadalafil)
-İlaç etken maddesi (Sildenafil)
+Protein ve Ham Bal Delta C13 Değerleri Arasındaki fark, C4 Şeker Oranı, Diastaz, Prolin Miktarı,Fruktoz+Glukoz, Fruktoz/Glukoz
+Protein ve Ham bal Delta C13 Değerleri arasındaki fark, C4 Şeker oranı
+Protein ve Ham bal Delta C13 Değerleri arasındaki fark, C4 Şeker oranı
+Protein ve Ham Bal Delta C13 Değerleri Arasındaki fark,C4 Şeker Oranı, Prolin Miktarı, Fruktoz+Glukoz, Fruktoz/Glukoz
 ==serial==
-22072017
-29092017
-1805
-22.10.2018
--
-22587
 001
-M10
-001
-2508
-001
-11.04.2018
-19092018
-21.06.2018
--
-R.0002018
+30122019
+142
+03 28
