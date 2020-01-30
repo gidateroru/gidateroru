@@ -1,25 +1,30 @@
-==company==
-Hünkar Bal-Gökdağ KARAKAYA Çankaya/Ankara
-Balsan Bal ve Arı Ürünleri- Semra V ARGUN Nilüfer/Bursa
-Çobanoğlu Gıda-Özal ÇOBAN Çekmeköy/İstanbul
-Çeşme Süt ve Tarım Ürünleri San. Ve Tic. Paz. Ltd. Şti. Selçuk/İzmir
-==brand==
-Balvital
-Balsan
-(Markasız Ürün)
-Çeşme
-==product==
-Süzme Çiçek Balı
-Süzme Çiçek Balı
-Akasya Balı
-Süzme Çiçek Balı
-==unsuitability==
-Protein ve Ham Bal Delta C13 Değerleri Arasındaki fark, C4 Şeker Oranı, Diastaz, Prolin Miktarı,Fruktoz+Glukoz, Fruktoz/Glukoz
-Protein ve Ham bal Delta C13 Değerleri arasındaki fark, C4 Şeker oranı
-Protein ve Ham bal Delta C13 Değerleri arasındaki fark, C4 Şeker oranı
-Protein ve Ham Bal Delta C13 Değerleri Arasındaki fark,C4 Şeker Oranı, Prolin Miktarı, Fruktoz+Glukoz, Fruktoz/Glukoz
-==serial==
-001
-30122019
-142
-03 28
+===Firma Adı===
+Özovalı Gıda Tarım İnş. Oto San. ve Ticaret Limited Şirketi ( Efeler/AYDIN)
+Alba Ticaret-Rıza ALABAŞ(Selendi/MANİSA) Satıcı:Dinçer TOPTAN Gıda Ticareti-Yeşim DİNÇER(Efeler/AYDIN)
+Has Yağ Gıda ve Sanayi Limited Şirketi(Akhisar/MANİSA)
+C.E.K Gıda San. Ltd.Şti. Merkez:Ege Değirmen Gıda Nak. Paz. İth. İhr. San. ve Tic. Ltd. Şti.(Nilüfer/BURSA)
+Raşit LOKMACILAR (Alaşehir - MANİSA)
+===Marka===
+Ada Ekol
+H. Başer Ege Pınarı
+Emin Dereköy
+Batı Egeden
+Ege Hisar
+===Ürün Adı===
+Rafine Vinterize Yemeklik Ayçiçek Yağı
+Riviera Zeytinyağı
+Natürel Sızma Zeytinyağı
+Natürel Sızma Zeytinyağı
+Natürel Sızma Zeytinyağı
+===Uygunsuzluk===
+(Yağ asitleri kompozisyonu, sterol kompozisyonu (ayçiçek yağından başka tohum yağları tespiti)
+(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu, ECN-42 farkı(tohum yağlarının tespiti)
+(Yağ asitleri kompozisyonu, sterol kompozisyonu, ECN-42 farkı(tohum yağlarının tespiti)
+(UV'de özgül soğurma, sterol kompozisyonu, yağ asitleri kompozisyonu, trans yağ asitleri, ECN-42 farkı (tohum yağlarının tespiti))
+(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri,ECN-42 farkı(tohum yağlarının tespiti))
+Parti/Seri No
+0207
+01
+01
+1
+007
