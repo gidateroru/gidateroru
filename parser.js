@@ -1,26 +1,26 @@
 const fs = require("fs");
 
-const fields = ["id", "company", "brand", "product", "unsuitability", "serial"];
+const fields = ["company", "brand", "product", "unsuitability", "serial"];
 const file = fs.readFileSync("./_data/format.txt");
 const data = file
   .toString()
-  .split(/==.*==/g)
+  .split(/==/g)
   .filter(Boolean)
   .map(column => column.split(/\n/).filter(Boolean));
-console.log(file.toString());
+console.log(data);
 let records = [];
 let j = 1;
 
-for (let i = 0; i < data[0].length; i++) {
-  records[i] = records[i] || [j++];
+// for (let i = 0; i < data[0].length; i++) {
+//   records[i] = records[i] || [j++];
 
-  data.forEach(column => {
-    records[i].push(column[i]);
-  });
-}
+//   data.forEach(column => {
+//     records[i].push(column[i]);
+//   });
+// }
 
-records = records.map(record => {
-  const item = {};
+records = data.map((record, index) => {
+  const item = {id: index + 1};
 
   fields.forEach((field, index) => {
     item[field] = record[index];

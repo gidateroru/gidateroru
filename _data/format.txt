@@ -1,30 +1,89 @@
-===Firma Adı===
-Özovalı Gıda Tarım İnş. Oto San. ve Ticaret Limited Şirketi ( Efeler/AYDIN)
-Alba Ticaret-Rıza ALABAŞ(Selendi/MANİSA) Satıcı:Dinçer TOPTAN Gıda Ticareti-Yeşim DİNÇER(Efeler/AYDIN)
-Has Yağ Gıda ve Sanayi Limited Şirketi(Akhisar/MANİSA)
-C.E.K Gıda San. Ltd.Şti. Merkez:Ege Değirmen Gıda Nak. Paz. İth. İhr. San. ve Tic. Ltd. Şti.(Nilüfer/BURSA)
-Raşit LOKMACILAR (Alaşehir - MANİSA)
-===Marka===
-Ada Ekol
-H. Başer Ege Pınarı
-Emin Dereköy
-Batı Egeden
-Ege Hisar
-===Ürün Adı===
-Rafine Vinterize Yemeklik Ayçiçek Yağı
-Riviera Zeytinyağı
-Natürel Sızma Zeytinyağı
-Natürel Sızma Zeytinyağı
-Natürel Sızma Zeytinyağı
-===Uygunsuzluk===
-(Yağ asitleri kompozisyonu, sterol kompozisyonu (ayçiçek yağından başka tohum yağları tespiti)
-(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu, ECN-42 farkı(tohum yağlarının tespiti)
-(Yağ asitleri kompozisyonu, sterol kompozisyonu, ECN-42 farkı(tohum yağlarının tespiti)
-(UV'de özgül soğurma, sterol kompozisyonu, yağ asitleri kompozisyonu, trans yağ asitleri, ECN-42 farkı (tohum yağlarının tespiti))
-(UV'de özgül soğurma, yağ asitleri kompozisyonu, sterol kompozisyonu , trans yağ asitleri,ECN-42 farkı(tohum yağlarının tespiti))
-Parti/Seri No
-0207
-01
-01
-1
-007
+Aktif Farma Kimya Ticaret Limited Şirketi Ümraniye/İST ANBUL
+Emodex
+Kapsül Mineral, Vitamin, Bitki Ekstresi, Aminoasit, Koenzim Q10 Karışımı İçeren Takviye Edici Gıda
+Sildenafil
+1720140
+==
+Naturals Bitkisel Ürünler- Remzi DURAK/ Derince/KOCAELİ
+Naturals
+Bitkisel Karışımlı Epimedyumlu Macun
+Sildenafil
+001
+==
+Sidra Gıda İnş. Taah. San. Tic. Ltd. Şti. İzmit/KOCAELİ
+Mysem Life
+Epimedyumlu Bitkisel Karışımlı Macun
+Parasetamol ve Sildenafil
+3.08.2022
+==
+Lokman Aktar Şifalı Bitkiler Gıda Takv. Akt. Bah. Bitk. Yağ Tic. Enver Polat Merkez/AFYON
+Tatanga
+Epimedyumlu Bitkisel Karışımlı Macun
+Sildenafil
+122021
+==
+Şahımerdan Bitkisel Ürünler İmalatı-Sezayi SAVAŞ Akdeniz/MERSİN
+Şahımerdan
+Mesir Macunu Karışımlı Macun
+Sildenafil
+001
+==
+Şahımerdan Bitkisel Ürünler İmalatı-Sezayi SAVAŞ Akdeniz/MERSİN
+Şahımerdan
+Ballı Zencefil Karışımlı Bitkisel Macun
+Sildenafil
+001
+==
+Şahımerdan Bitkisel Ürünler İmalatı-Sezayi SAVAŞ Akdeniz/MERSİN
+Naturals
+Bitkisel Karışımlı Epimedyumlu Macun
+Sildenafil
+05/2014
+==
+Şehzade Çerez-İrfan DİNÇER Saruhanlı/Manisa
+Maccun Plus
+Ballı Bitkisel Macun
+Tadalafil
+300/40gr
+==
+Şehzade Çerez-İrfan DİNÇER Saruhanlı/Manisa
+Maccun Plus
+Ballı Bitkisel Macun
+Tadalafil
+300/240gr
+==
+Şehzade Çerez-İrfan DİNÇER Saruhanlı/Manisa
+Maccun Plus
+Ballı Bitkisel Macun
+Tadalafil
+015
+==
+Ötüken Ticaret - Sedat OMUZUBOZLU Etimesgut/ANKARA
+Kamagra
+Capsule
+Sildenafil
+70-10
+==
+Satış Yeri: Waden Sağlık- Veysi DENLİ Artuklu/MARDİN
+Themra
+Epimedyumlu Bitkisel Karışımlı Macun
+Sildenafil
+020
+==
+Sidra Gıda İnş. Taah. San. Tic. Ltd. Şti./ İzmit/KOCAELİ
+Sidra Maximum Power
+Bitkisel Karışımlı Ginsengli Macun
+Sildenafil
+12-2023
+==
+Sidra Gıda İnş. Taah. San. Tic. Ltd. Şti./ İzmit/KOCAELİ
+Sidra Maximum Power
+Bitkisel Karışımlı Ginsengli Macun
+Sildenafil
+10.12.2023
+==
+Satış yeri: Bahar Bitkisel- Mehmet ÇIRAK Konyaaltı/ANTALYA
+Eniola
+Ginsengli Bitkisel Karışımlı Macun
+Sildenafil
+20.01.2020
